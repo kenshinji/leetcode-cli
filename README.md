@@ -8,9 +8,9 @@
 
 <img src="https://github.com/skygragon/leetcode-cli/raw/master/docs/logo.png" align="right">
 
-A productive cli tool to enjoy leetcode!
+A Command-Line Interface (CLI) to access leetcode.com efficiently!
 
-Great thanks to leetcode.com, a really awesome website!
+Many thanks to leetcode.com!
 
 ⦙ [Releases](https://skygragon.github.io/leetcode-cli/releases) ⦙
 [Install](https://skygragon.github.io/leetcode-cli/install) ⦙
